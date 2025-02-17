@@ -1,6 +1,6 @@
-from Worker import Worker
-from Manager import Manager
-from Contractor import Contractor
+from worker import Worker
+from manager import Manager
+from contractor import Contractor
 
 def main():
     worker = Worker(1, "Alice", "123 Main St", 1990, 8, 20)

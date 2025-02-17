@@ -1,4 +1,4 @@
-from Employee import Employee
+from employee import Employee
 from typing import override
 
 class Contractor(Employee):
